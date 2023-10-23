@@ -1,2 +1,3 @@
 hello git first lesson
 second part recent time 14:30
+깃 변경
